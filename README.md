@@ -1,6 +1,12 @@
 # Gruvbox Wallpapers
 Gruvbox wallpapers collection
 
+# Contributions
+
+1. Fork the project.
+2. Add the wallpapers that you have in their respective folder.
+3. Make a pull request.
+
 # Anime 
 ![anime1](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/ign_waifu.png)
 ![anime2](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/5m5kLI9.png)
