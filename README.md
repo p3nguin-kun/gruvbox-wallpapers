@@ -1,5 +1,5 @@
 # Gruvbox Wallpapers
-Gruvbox wallpapers collection
+A Gruvbox wallpapers collection
 
 # Contributions
 
