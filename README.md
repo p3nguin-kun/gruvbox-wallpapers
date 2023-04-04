@@ -3,7 +3,7 @@ Gruvbox wallpapers collection
 
 # Contributions
 
-1. Fork the project.
+1. Fork this project.
 2. Add the wallpapers that you have in their respective folder.
 3. Make a pull request.
 
