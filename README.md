@@ -17,3 +17,6 @@ You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) t
 ![anime4](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/classroom.jpg)
 ![anime5](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/ghibli-japanese-walled-garden.png)
 ![anime6](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/my-neighbor-totoro-sunflowers.png)
+
+# Other
+![gruv-sushi-street](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/other/gruv-sushi-streets.png)
