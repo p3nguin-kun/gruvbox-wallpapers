@@ -19,6 +19,11 @@ You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) t
 ![anime6](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/my-neighbor-totoro-sunflowers.png)
 ![anime7](https://github.com/p3nguin-kun/gruvbox-wallpapers/raw/main/anime/bgwhite.jpg)
 ![anime8](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/gruvbox_BG.png)
+![anime9](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/gruvbox_heh.jpg)
+![anime10](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/gruvbox_hype.jpg)
+![anime11](https://taw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/gruvbox_menu-background.jpg)
+![anime12](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/Background-Art-Love-Money-Rock-n-Roll-ArseniXC-room-light-effects-guitar-1956793-wallhere.com(1).jpg)
+
 
 # Other
 ![gruv-sushi-street](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/other/gruv-sushi-streets.png)
