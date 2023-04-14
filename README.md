@@ -24,6 +24,19 @@ You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) t
 ![anime11](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/gruvbox_menu-background.jpg)
 ![anime12](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/Background-Art-Love-Money-Rock-n-Roll-ArseniXC-room-light-effects-guitar-1956793-wallhere.com(1).jpg)
 
+# Minimalistic
+![min1](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/ALLqk82.png)
+![min2](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/PJbX0MG.png)
+![min3](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/debian_grey_swirl.png)
+![min4](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/finalizer.png)
+![min5](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/great-wave-of-kanagawa-gruvbox.png)
+![min6](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/gruvb_solarsys.png)
+![min7](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/gruvbox_astro.jpg)
+![min8](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/gruvbox_minimal_space.png)
+![min9](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/gruvbox_spac.jpg)
+![min10](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/pacman-ghosts.jpg)
+![min11](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/sve.png)
+![min12](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/wp11058333.png)
 
 # Other
 ![gruv-sushi-street](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/other/gruv-sushi-streets.png)
