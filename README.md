@@ -23,6 +23,12 @@ You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) t
 ![anime10](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/gruvbox_hype.jpg)
 ![anime11](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/gruvbox_menu-background.jpg)
 ![anime12](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/Background-Art-Love-Money-Rock-n-Roll-ArseniXC-room-light-effects-guitar-1956793-wallhere.com(1).jpg)
+![anime13](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/75993030-.jpg)
+![anime14](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/PdPMn87.jpg)
+![anime15](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/bg(1).png)
+![anime16](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/thatbgfillsmewithsomenostalgicthoughts.jpg)
+![anime17](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/yumechizu.png)
+![anime18](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/yumechizu2.jpg)
 
 # Minimalistic
 ![min1](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/ALLqk82.png)
