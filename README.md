@@ -29,6 +29,9 @@ You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) t
 ![anime16](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/thatbgfillsmewithsomenostalgicthoughts.jpg)
 ![anime17](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/yumechizu.png)
 ![anime18](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/yumechizu2.jpg)
+![anime19](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/wallpaper-133ubl2.jpg)
+![anime20](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/nicebg.png)
+![anime21](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/bgalternertive.png)
 
 # Minimalistic
 ![min1](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/ALLqk82.png)
