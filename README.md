@@ -1,16 +1,18 @@
-# Gruvbox Wallpapers
+# ***Gruvbox Wallpapers***
 A Gruvbox wallpapers collection
 
-# Contributions
+
+
+# ***Contributions***
 
 1. Fork this project.
 2. Add the wallpapers that you have in their respective folder.
 3. Make a pull request.
 
-# Convert any wallpaper to the Gruvbox palette
+# ***Convert any wallpaper to the Gruvbox palette***
 You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) to convert any wallpaper to Gruvbox color palette
 
-# Anime (or manga) related
+# ***Anime (or manga) related***
 ![anime1](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/ign_waifu.png)
 ![anime2](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/5m5kLI9.png)
 ![anime3](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/The-Wind-Rises.jpg)
@@ -46,7 +48,7 @@ You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) t
 ![anime33](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/wallpaperflare.com_wallpaper(7).jpg)
 ![anime34](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/anime/wallpaperflare.com_wallpaper.jpg)
 
-# Minimalistic
+# ***Minimalistic***
 ![min1](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/ALLqk82.png)
 ![min2](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/PJbX0MG.png)
 ![min3](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/debian_grey_swirl.png)
@@ -60,5 +62,5 @@ You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) t
 ![min11](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/sve.png)
 ![min12](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/minimalistic/wp11058333.png)
 
-# Other
+# ***Other***
 ![gruv-sushi-street](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpapers/main/other/gruv-sushi-streets.png)
