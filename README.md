@@ -1,6 +1,9 @@
 # ***Gruvbox Wallpapers***
 A Gruvbox wallpapers collection
 
+# Note: I don't use GitHub anymore, please switch to Codeberg
+https://codeberg.org/p3nguin-kun/gruvbox-wallpapers
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgp3nguin-kun%2Fgruvbox-wallpapers&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 ![Size](https://img.shields.io/github/repo-size/p3nguin-kun/gruvbox-wallpapers?style=for-the-badge)
 ![pull](https://img.shields.io/github/issues-pr/p3nguin-kun/gruvbox-wallpapers?style=for-the-badge)
@@ -14,7 +17,7 @@ A Gruvbox wallpapers collection
 3. Make a pull request.
 
 # ***Convert any wallpaper to the Gruvbox palette***
-You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) to convert any wallpaper to Gruvbox color palette
+You can use [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory) to convert any wallpaper to Gruvbox color pallete
 
 # ***Anime (or manga) related***
 | ![anime1](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/ign_waifu.png) | ![anime2](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/5m5kLI9.png) | ![anime3](https://raw.githubusercontent.com/p3nguin-kun/gruvbox-wallpaper/main/anime/The-Wind-Rises.jpg) |
